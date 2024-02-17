@@ -35,9 +35,4 @@ The **AirBnB Clone - The Console** operates in two modes:
    (hbnb) help
    ```
 
-Feel free to explore and manage your Airbnb data using this simple and intuitive CLI! 🏠🌟
-
-Source: Conversation with Bing, 17/02/2024
-(1) GitHub - YeabkalW/AirBnB_clone: The ALX Airbnb Console Project is a .... https://github.com/YeabkalW/AirBnB_clone.
-(2) GitHub - paurbano/AirBnB_clone: AirBnB clone - The console. https://github.com/paurbano/AirBnB_clone.
-(3) GitHub - Dikachis/AirBnB_clone: 0x00. AirBnB clone - The console. https://github.com/Dikachis/AirBnB_clone.
+Feel free to explore and manage your Airbnb data using this simple and intuitive CLI! 
